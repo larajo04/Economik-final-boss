@@ -24,8 +24,8 @@ BCV_RATE = 450  # 450 Bs por $1
 txt_title = '💰 EconomiK - Gestión Monetaria'
 txt_hello = 'Bienvenido a EconomiK'
 txt_instruction = ('Sistema de gestión monetaria personal.\n'
-                   'Registre sus movimientos en Bolívares (BCV) y Dólares.\n'
-                   'Tasa BCV: 450 Bs = $1 USD')
+                    'Registre sus movimientos en Bolívares (BCV) y Dólares.\n'
+                    'Tasa BCV: 450 Bs = $1 USD')
 txt_next = 'Iniciar Sesión'
 txt_register = 'Registrarse'
 
